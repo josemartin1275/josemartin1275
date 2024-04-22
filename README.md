@@ -1,3 +1,8 @@
+-soy Desarrollador fred and
+-Prefesion Tecnico En sistemas
+-
+-
+-
 - 👋 Hi, I’m @josemartin1275
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
